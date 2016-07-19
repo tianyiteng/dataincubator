@@ -1,0 +1,15 @@
+{
+  "name": "dataincubator",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "cloudinary"
+  ],
+  "buildpacks": [
+
+  ]
+}
